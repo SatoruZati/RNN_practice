@@ -39,4 +39,4 @@ python rnn_tensorflow_imdb.py
 python rnn_pytorch_mnist.py
 ```
 
-Run the scripts from your Jupyter Notebook or VS Code after selecting the correct kernal if you make yours in .ipynb
+Run the scripts from your Jupyter Notebook or VS Code after selecting the correct kernel if you make yours in .ipynb
