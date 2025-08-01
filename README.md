@@ -29,7 +29,7 @@ This repository contains two basic Python scripts that demonstrate how to build 
 
 ## Usage
 
-Run the scripts from your terminal:
+Run the scripts from your terminal if you make yours in .py:
 
 ```bash
 python rnn_tensorflow_imdb.py
@@ -38,3 +38,5 @@ python rnn_tensorflow_imdb.py
 ```bash
 python rnn_pytorch_mnist.py
 ```
+
+Run the scripts from your Jupyter Notebook or VS Code after selecting the correct terminal if you make yours in .ipynb
